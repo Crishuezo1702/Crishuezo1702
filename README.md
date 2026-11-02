@@ -1,32 +1,45 @@
-# 👋 Hola, soy Cristian Marcelo Lopez Huezo
+# 👋 Hi, I'm Cristian Marcelo Lopez Huezo
 
-Estudiante de Ingenieria en Ciencias de la Computacion de la UFG
+🎓 Computer Science Engineering Student at Universidad Francisco Gavidia (UFG), El Salvador.
 
-## Tecnologias que estoy aprendiendo
+💻 Aspiring Full Stack Developer passionate about programming, web development, and software engineering.
 
-- HTML
-- CSS
-- GIT
-- GITHUB
-- JAVA
-- SPRING BOOT
+I'm currently focused on improving my programming skills, building projects, and learning new technologies.
 
+## 🚀 Technologies & Tools
 
-## Proyectos 
+### Currently Learning
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+- Java
+- Spring Boot
 
-### Cafe 
-sitio web de una cafeteria de especialidad creado con HTML, CSS Y JavasScript.
+## 📂 Projects
 
-### Piedra Papel o Tijera
-Juego desarrollado en JavaScript para practicar logica de programacion 
+### ☕ Okini Cafe
+A specialty coffee shop website developed using HTML, CSS, and JavaScript.
 
-## Objetivos 
+### ✂️ Rock Paper Scissors
+A JavaScript game developed to practice programming logic and fundamental programming concepts.
 
-- [x] Aprender Git y Github
-- [x] Crear repositorios
-- [x] usar Markdown 
-- [] Aprender spring Boot
-- [] Aprender Java 
+### 🃏 JavaScript Blackjack
+A Blackjack game built with JavaScript and Vite, focused on game logic, functions, arrays, and ES Modules.
 
+## 🎯 Goals
 
+- Strengthen my JavaScript skills.
+- Improve my programming logic.
+- Learn Java and Spring Boot.
+- Build real-world software projects.
+- Improve my Git and GitHub workflow.
+- Become a Full Stack Developer.
 
+## 📫 Contact
+
+GitHub: [@Crishuezo1702](https://github.com/Crishuezo1702)
+
+---
+
+⭐ Always learning, always building.
