@@ -13,8 +13,7 @@ I'm currently focused on improving my programming skills, building projects, and
 - HTML5
 - CSS3
 - Git & GitHub
-- Java
-- Spring Boot
+
 
 ## 📂 Projects
 
